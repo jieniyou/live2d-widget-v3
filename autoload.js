@@ -1,4 +1,4 @@
-const cdnPath = '/live2d-widget-v3';
+const cdnPath = 'https://cdn.jsdmirror.com/gh/jieniyou/live2d-widget-v3@main';
 const config = {
     // 资源路径
     path: {

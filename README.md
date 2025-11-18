@@ -1,3 +1,9 @@
+> ### 借鉴 [letere-gzj/live2d-widget-v3](https://github.com/letere-gzj/live2d-widget-v3) 项目：
+
+jsdelivr cdn:
+```
+https://cdn.jsdmirror.com/gh/jieniyou/live2d-widget-v3@main/
+```
 # <center>Live2d-Widget-v3
 
 ---
