@@ -2,11 +2,13 @@
     "models": [
         ["Mao", "Rice", "Hiyori", "Haru"],
         ["Natori", "Mark"],
-        ["Wanko"]
+        ["Wanko"],
+        ["LittleWitch", "StrawberryRabbit"]
     ],
     "messages": [
         ["你好，我是Mao", "你好，我是Rice", "你好，我是Hiyori", "你好，我是Haru"],
         ["你好，我是Naotri", "你好，我是Mark"],
-        ["汪汪，我是Wanko"]
+        ["汪汪，我是Wanko"],
+        ["你好，我是小魔女", "你好，我是草莓兔兔"]
     ]
 }

@@ -1,0 +1,30 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "StrawberryRabbit.moc3",
+		"Textures": [
+			"StrawberryRabbit.4096/texture_00.png",
+			"StrawberryRabbit.4096/texture_01.png",
+			"StrawberryRabbit.4096/texture_02.png",
+			"StrawberryRabbit.4096/texture_03.png",
+			"StrawberryRabbit.4096/texture_04.png"
+		],
+		"Physics": "StrawberryRabbit.physics3.json",
+		"DisplayInfo": "StrawberryRabbit.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	]
+}
