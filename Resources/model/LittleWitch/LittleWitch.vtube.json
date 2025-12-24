@@ -602,7 +602,7 @@
             "HotkeyID": "be0493dbb1dc4883ae7b9027a994b2c4",
             "Name": "星星眼",
             "Action": "ToggleExpression",
-            "File": "StarEye.exp3.json",
+            "File": "星星眼.exp3.json",
             "Folder": "",
             "Position": {
                 "X": 0.0,
@@ -671,7 +671,7 @@
             "HotkeyID": "cabb7167df2d48708c23ec1b5661fab1",
             "Name": "爱心眼",
             "Action": "ToggleExpression",
-            "File": "LovingEyes.exp3.json",
+            "File": "爱心眼.exp3.json",
             "Folder": "",
             "Position": {
                 "X": 0.0,
@@ -740,7 +740,7 @@
             "HotkeyID": "9566d4dc2f834cadbb634e718b6d9ee6",
             "Name": "脸红",
             "Action": "ToggleExpression",
-            "File": "Blush.exp3.json",
+            "File": "脸红.exp3.json",
             "Folder": "",
             "Position": {
                 "X": 0.0,
@@ -809,7 +809,7 @@
             "HotkeyID": "291c310571f841738b810a53e0f9bf75",
             "Name": "脸黑",
             "Action": "ToggleExpression",
-            "File": "DarkFace.exp3.json",
+            "File": "脸黑.exp3.json",
             "Folder": "",
             "Position": {
                 "X": 0.0,
@@ -878,7 +878,7 @@
             "HotkeyID": "131b4264421142c38bd007d3ff2a41b3",
             "Name": "水印",
             "Action": "ToggleExpression",
-            "File": "Watermark.exp3.json",
+            "File": "水印.exp3.json",
             "Folder": "",
             "Position": {
                 "X": 0.0,
