@@ -3,11 +3,11 @@
 	"FileReferences": {
 		"Moc": "StrawberryRabbit.moc3",
 		"Textures": [
-			"StrawberryRabbit.4096/texture_00.png",
-			"StrawberryRabbit.4096/texture_01.png",
-			"StrawberryRabbit.4096/texture_02.png",
-			"StrawberryRabbit.4096/texture_03.png",
-			"StrawberryRabbit.4096/texture_04.png"
+			"StrawberryRabbit.4096/texture_00.webp",
+			"StrawberryRabbit.4096/texture_01.webp",
+			"StrawberryRabbit.4096/texture_02.webp",
+			"StrawberryRabbit.4096/texture_03.webp",
+			"StrawberryRabbit.4096/texture_04.webp"
 		],
 		"Physics": "StrawberryRabbit.physics3.json",
 		"DisplayInfo": "StrawberryRabbit.cdi3.json"

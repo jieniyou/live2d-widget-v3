@@ -3,8 +3,8 @@
 	"FileReferences": {
 		"Moc": "LittleWitch.moc3",
 		"Textures": [
-			"LittleWitch.8192/texture_00.png",
-			"LittleWitch.8192/texture_01.png"
+			"LittleWitch.8192/texture_00.webp",
+			"LittleWitch.8192/texture_01.webp"
 		],
 		"Physics": "LittleWitch.physics3.json",
 		"DisplayInfo": "LittleWitch.cdi3.json"
